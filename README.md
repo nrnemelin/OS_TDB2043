@@ -15,3 +15,9 @@
 |          | [Task 2 - Leap Year?](./25_10_16-Task1-2-3-4/task_2.sh) |
 |          | [Task 3 - Factorial of a Number](./25_10_16-Task1-2-3-4/task_3.sh) |
 |          | [Task 4 - Swapping of Two Numbers](./25_10_16-Task1-2-3-4/task_4.sh) |
+| 25/10/23 | [Task 1 - CPU: Priority](./25_10_23-Task1-2-3-4/task_1.c) |
+|          | [Task 2 - CPU: Round Robin](./25_10_23-Task1-2-3-4/task_2.c) |
+|          | [Task 3 - CPU: First-Come, First-Served](./25_10_23-Task1-2-3-4/task_3.c) |
+|          | [Task 4 - CPU: Shortest Job First](./25_10_23-Task1-2-3-4/task_4.c) |
+| 25/10/30 | [Task 1 - Producer Consumer Problem Using Semaphores](./25_10_30-Task1-2/task_1.c) |
+|          | [Task 2 - IPC Using Shared Memory](./25_10_30-Task1-2/task_2.c) |
