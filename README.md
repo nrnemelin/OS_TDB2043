@@ -21,3 +21,6 @@
 |          | [Task 4 - CPU: Shortest Job First](./25_10_23-Task1-2-3-4/task_4.c) |
 | 25/10/30 | [Task 1 - Producer Consumer Problem Using Semaphores](./25_10_30-Task1-2/task_1.c) |
 |          | [Task 2 - IPC Using Shared Memory](./25_10_30-Task1-2/task_2.c) |
+| 25/11/06 | [Task 1 - ](./25_11_06-Task1-2-3/task_1.c) |
+|          | [Task 2 - ](./25_11_06-Task1-2-3/task_2.c) |
+|          | [Task 3 - ](./25_11_06-Task1-2-3/task_3.c) |
