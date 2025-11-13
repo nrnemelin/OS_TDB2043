@@ -24,3 +24,6 @@
 | 25/11/06 | [Task 1 - Banker's Algorithm for Deadlock Avoidance](./25_11_06-Task1-2-3/task_1.c) |
 |          | [Task 2 - Algorithm for Deadlock Detection](./25_11_06-Task1-2-3/task_2.c) |
 |          | [Task 3 - Threading & Synchronization Applications](./25_11_06-Task1-2-3/task_3.c) |
+| 25/11/13 | [Task 1 - Worst Fit Allocation](./25_11_13-Task1-2-3/task_1.c) |
+|          | [Task 2 - First Fit Allocation](./25_11_13-Task1-2-3/task_2.c) |
+|          | [Task 3 - Best Fit Allocation](./25_11_13-Task1-2-3/task_3.c) |
