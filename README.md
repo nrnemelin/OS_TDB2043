@@ -7,7 +7,7 @@
 | Date     | Lab Tasks |
 | ---------|-----------|
 | 25/10/02 | [Task 1 - Directory](./25_10_02-Task1-2/task_1.c) |
-|          | [Task 2 - Process Creation](./25_10_02-Task1-2/task_2.c) |                                                  |
+|          | [Task 2 - Process Creation](./25_10_02-Task1-2/task_2.c) |
 | 25/10/09 | [Task 1 - Number of Spaces](./25_10_09-Task1-2-3/task_1.c) |
 |          | [Task 2 - Contents of Directory](./25_10_09-Task1-2-3/task_2.c) |
 |          | [Task 3 - Opening A File](./25_10_09-Task1-2-3/task_3.c) |
@@ -27,3 +27,12 @@
 | 25/11/13 | [Task 1 - Worst Fit Allocation](./25_11_13-Task1-2-3/task_1.c) |
 |          | [Task 2 - First Fit Allocation](./25_11_13-Task1-2-3/task_2.c) |
 |          | [Task 3 - Best Fit Allocation](./25_11_13-Task1-2-3/task_3.c) |
+| 25/11/20 | [Task 1 - Paging Technique of Memory Management](./25_11_20-Task1-2-3-4/task_1.c) |
+|          | [Task 2 - FIFO Page Replacement Algorithms](./25_11_20-Task1-2-3-4/task_2.c) |
+|          | [Task 3 - LRU Page Replacement Algorithms](./25_11_20-Task1-2-3-4/task_3.c) |
+|          | [Task 4 - LFU Page Replacement Algorithms](./25_11_20-Task1-2-3-4/task_4.c) |
+| 25/11/27 | [Task 1 - File Organisation: Single Level Directory](./25_11_27-Task1-2/task_1.c) |
+|          | [Task 2 - File Organisation: Multiple Level Directory](./25_11_27-Task1-2/task_2.c) |
+| 25/12/04 | [Task 1 - Sequential File Allocation Strategy](./25_12_04-Task1-2-3/task_1.c) |
+|          | [Task 2 - Linked File Allocation Strategy](./25_12_04-Task1-2-3/task_2.c) |
+|          | [Task 3 - Indexed File Allocation Strategy](./25_12_04-Task1-2-3/task_3.c) |
